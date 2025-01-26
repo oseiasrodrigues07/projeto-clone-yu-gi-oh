@@ -46,4 +46,20 @@
     .cabecalho{
         font-size: 12px;
     }
+     .slider {
+        position: relative;
+    }
+
+    .btn-seta {
+        position: absolute;
+        bottom: -20%;
+    }
+
+    #btn-avancar {
+        right: 20%;
+    }
+
+    #btn-voltar {
+        left: 20%;
+    }
 }
